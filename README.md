@@ -30,4 +30,4 @@ In the java-athletes projects, the initial package is highly, tightly coupled. T
 
 ## Stretch Goal
 
-Add a court interface injection that allows each sport to represent its own court independent of each other and of the athlete created.
+Add a court interface injection that allows each sport to represent its own court independent of each other and of the athleteCreation created.
